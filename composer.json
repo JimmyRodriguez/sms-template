@@ -1,0 +1,13 @@
+{
+  "name": "hostinger/sms-template",
+  "description": "Example Application to Deploy On Hostinger",
+  "require": {
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "hostinger",
+      "email": "jimmy_sidney@hotmail.es"
+    }
+  ]
+}
