@@ -1,5 +1,10 @@
 header:hover{
     background-color: #2F2F2F;
-    color:#FFFF66;
-    border-color: #006599;
+    border-bottom: medium;
+    border-color: black;
+}
+
+.homepage .subscribe-bar form .btn {
+    display: block;
+    width: 100%;
 }
